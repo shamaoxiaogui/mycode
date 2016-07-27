@@ -1,7 +1,7 @@
 
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
-PROGS = static
+PROGS = static override memberpointer virtualpointer
 
 all: $(PROGS)
 
