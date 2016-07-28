@@ -1,5 +1,5 @@
 #include "utility.h"
 int main(){
-    show_me();
+    say_hello(stdout);
     exit(EXIT_SUCCESS);
 }
